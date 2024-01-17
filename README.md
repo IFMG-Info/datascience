@@ -14,3 +14,11 @@ Link: https://sol.sbc.org.br/index.php/encompif/article/view/20436
 
 DOI: https://doi.org/10.5753/encompif.2022.223182
 ---------------------------------------------------
+Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/Analise_Desempenho_ML_Redes_Welton_RSC2022.pdf
+
+Citação: SOUSA, Welton Thiago Martins; SILVA, Carlos Alexandre. Análise de Desempenho em Algoritmos de Aprendizagem de Máquina na Detecção de Intrusão Baseada em Fluxo de Rede usando o Conjunto de Dados UNSW-NB15. Revista de Sistemas e Computação-RSC, v. 12, n. 2, 2022.
+
+Link: https://revistas.unifacs.br/index.php/rsc/article/view/7705
+
+DOI: https://doi.org/10.36558/rsc.v12i2.7705
+---------------------------------------------------
