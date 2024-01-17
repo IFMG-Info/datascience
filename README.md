@@ -1,7 +1,7 @@
 Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou que se tornou o Trabalho de Conclusão de Curso defendido, cujo desenvolvimento iniciou na disciplina de Ciência de Dados ou logo após terem cursado a disciplina.
 
 ---------------------------------------------------
-<h1>Ciência de Dados / Turma: 2019 (ano da disciplina: 2021)</h1>
+<h1>Ciência de Dados / Turma: 2018 (ano da disciplina: 2021)</h1>
 
 
 <ol>
@@ -54,9 +54,9 @@ DOI: https://doi.org/10.36558/rsc.v12i2.7705
 
 
 ---------------------------------------------------
-<h1>Ciência de Dados / Turma: 2020 (ano da disciplina: 2022)</h1>
+<h1>Ciência de Dados / Turma: 2019 (ano da disciplina: 2022)</h1>
 
 
 ---------------------------------------------------
-<h1>Ciência de Dados / Turma: 2021 (ano da disciplina: 2022)</h1>
+<h1>Ciência de Dados / Turma: 2020 (ano da disciplina: 2023)</h1>
 
