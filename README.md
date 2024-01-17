@@ -1,3 +1,11 @@
+Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou que se tornou o Trabalho de Conclusão de Curso defendido, cujo desenvolvimento iniciou na disciplina de Ciência de Dados ou logo após terem cursado a disciplina.
+
+<h1>Ciência de Dados / Turma: 2019 (ano da disciplina: 2021)</h1>
+
+Ciência de Dados / Turma: 2020 (ano da disciplina: 2022)
+
+Ciência de Dados / Turma: 2021 (ano da disciplina: 2022)
+
 Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/ERE_IF_MateusFilipe_ENCOMPIF2022.pdf
 
 Citação: SOUZA, Mateus FL; TARGA, Cristiane N.; SILVA, Carlos A. Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opiniao. In: Anais do IX Encontro Nacional de Computação dos Institutos Federais. SBC, 2022. p. 53-60.
