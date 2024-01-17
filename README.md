@@ -2,7 +2,7 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
 
 ---------------------------------------------------
 <h1>Ciência de Dados / Turma: 2019 (ano da disciplina: 2021)</h1>
----------------------------------------------------
+
 
 <ol>
   
@@ -16,7 +16,7 @@ Link: https://sol.sbc.org.br/index.php/encompif/article/view/20435
 
 DOI: https://doi.org/10.5753/encompif.2022.223080
 </li>
----------------------------------------------------
+
 <li>
 Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/Mineracao_Opiniao_Twitter_ERE_IF_MateusFilipe_RSC2022.pdf
 
@@ -26,7 +26,7 @@ Link: https://revistas.unifacs.br/index.php/rsc/article/view/7707
 
 DOI: https://doi.org/10.36558/rsc.v12i2.7707
 </li>
----------------------------------------------------
+
 <li>
 Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/Anomalia_TrafegoRedes_MachineLearning_Welton_ENCOMPIF2022.pdf
 
@@ -36,7 +36,7 @@ Link: https://sol.sbc.org.br/index.php/encompif/article/view/20436
 
 DOI: https://doi.org/10.5753/encompif.2022.223182
 </li>
----------------------------------------------------
+
 <li>
 Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/Analise_Desempenho_ML_Redes_Welton_RSC2022.pdf
 
@@ -46,7 +46,7 @@ Link: https://revistas.unifacs.br/index.php/rsc/article/view/7705
 
 DOI: https://doi.org/10.36558/rsc.v12i2.7705
 </li>
----------------------------------------------------
+
 
 </ol>
 
@@ -55,8 +55,8 @@ DOI: https://doi.org/10.36558/rsc.v12i2.7705
 
 ---------------------------------------------------
 <h1>Ciência de Dados / Turma: 2020 (ano da disciplina: 2022)</h1>
----------------------------------------------------
+
 
 ---------------------------------------------------
 <h1>Ciência de Dados / Turma: 2021 (ano da disciplina: 2022)</h1>
----------------------------------------------------
+
