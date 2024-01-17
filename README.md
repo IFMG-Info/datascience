@@ -45,7 +45,9 @@ Citação: SOUSA, Welton Thiago Martins; SILVA, Carlos Alexandre. Análise de De
 Link: https://revistas.unifacs.br/index.php/rsc/article/view/7705
 
 DOI: https://doi.org/10.36558/rsc.v12i2.7705
+</li>
 
+<li>
 Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/Algoritmos_Recomendacao_ItensUnicos_Listas_GuilhermeBasilio_TCC2022.pdf
 
 Citação: SOUTO, Guilherme Basílio; Filho, Renato Miranda; SILVA, Carlos Alexandre. Algoritmos de Recomendação: Propostas para Avaliação das
@@ -57,9 +59,6 @@ DOI:
 </li>
 
 </ol>
-
-
-
 
 ---------------------------------------------------
 <h1>Ciência de Dados / Turma: 2019 (ano da disciplina: 2022)</h1>
