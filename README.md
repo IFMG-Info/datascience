@@ -152,7 +152,7 @@ demonstrar possibilidade de utilização das ferramentas de inteligência artifi
     <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
     <li> <b>Coorientador</b>: Danilo Boechat Seufitelli</li>
     <li> <b>Título do trabalho</b>: Eleições Presidenciais de 2022: Predições com Dados de Pesquisas Eleitorais do Poder360 e PollingData</li>
-    <li> <p align="Justify"><b>Resumo</b>:  </p></li>
+    <li> <p align="Justify"><b>Resumo</b>: As pesquisas eleitorais são uma ferramenta poderosa para captar as aspirações da população. Portanto, exploramos o potencial de combinar pesquisas eleitorais com algoritmos de previsão para a eleição presidencial brasileira de 2022. Especificamente, foi preterido determinar se a integração de técnicas de aprendizado de máquina pode produzir resultados superiores em comparação com as pesquisas eleitorais tradicionais de forma isolada. Nossos resultados mostram que os modelos de previsão exibiram desempenho promissor, superando os resultados dos institutos de pesquisa, principalmente no segundo turno. Essa abordagem revela uma opção promissora para prever futuras eleições, lançando luz sobre a previsão de resultados eleitorais. </p></li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Eleicoes_Presidenciais2022_Predicao_Poder360_PollingData_GabrielPaula_TCC2023.pdf </li>
     <li> <b>Veículo de divulgação</b>: Repositório IFMG (não disponível)
     <li> <b>Citação</b>: VALENTIM, Gabriel P.; SEUFITELLI, Danilo B.; SILVA, Carlos A.. Eleições Presidenciais de 2022: Predições com Dados de Pesquisas Eleitorais do Poder360 e PollingData. 2023. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal Minas Gerais. </li>
