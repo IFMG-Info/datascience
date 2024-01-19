@@ -1,4 +1,4 @@
-Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou que se tornou o Trabalho de Conclusão de Curso defendido, cujo desenvolvimento iniciou na disciplina de Ciência de Dados ou logo após terem cursado a disciplina ou provindo de algum projeto de pesquisa nesta área.
+Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou que se tornou o Trabalho de Conclusão de Curso defendido, cujo desenvolvimento iniciou na disciplina de Ciência de Dados ou logo após terem cursado a disciplina ou provindo de algum projeto de pesquisa nesta área. Os trabalhos que foram publicados estão divulgados em formato de <b>artigo completo</a> em Congressos/Conferências/Simpósios/Encontros de porte <b>nacional ou interacional</b> ou em <b>periódico com qualis</b> (regras de equivalência de TCC para o curso de BSI/IFMG-Sabará).
 
 ---------------------------------------------------
 <h1>Ciência de Dados / Turma: 2018 (ano da disciplina: 2021)</h1>
@@ -10,10 +10,11 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
 <li>
   <ul>
     <li> <b>Aluno</b>: Mateus Filipe de Lima Souza</li>
-    <li> <b>Título do trabalho</b>: Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opiniao</li>
+    <li> <b>Título do trabalho</b>: Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opinião</li>
     <li> <b>Resumo</b>: O ensino remoto emergencial (ERE) foi uma estratégia didática e pedagógica adotada por instituições educacionais do mundo inteiro para diminuir
 os impactos provocados pela Covid-19. Neste período o uso das redes sociais se intensificaram. Este trabalho apresenta um estudo sobre a percepção e os sentimentos da comunidade acadêmica de Institutos Federais no período compreendendo o ERE de 2020 à 2021, utilizando técnicas de mineração de opinião. Construímos uma base de dados coletada a partir do Twitter e aplicamos o método Multinomial Naive Bayes para categorizar os sentimentos. Os resultados mostram uma certa estabilização dos sentimentos da comunidade a partir de fevereiro de 2021.</li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/ERE_IF_MateusFilipe_ENCOMPIF2022.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Encontro Nacional de Computação dos Institutos Federais 
     <li> <b>Citação</b>: SOUZA, Mateus FL; TARGA, Cristiane N.; SILVA, Carlos A. Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opiniao. In: Anais do IX Encontro Nacional de Computação dos Institutos Federais. SBC, 2022. p. 53-60. </li>
     <li> <b>Link</b>: https://sol.sbc.org.br/index.php/encompif/article/view/20435 </li>
     <li> <b>DOI</b>: https://doi.org/10.5753/encompif.2022.223080 </li>
@@ -29,6 +30,7 @@ os impactos provocados pela Covid-19. Neste período o uso das redes sociais se 
 da comunidade acadêmica, além de uma certa estabilização dos sentimentos mais positivos a partir de fevereiro de
 2021.</li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Mineracao_Opiniao_Twitter_ERE_IF_MateusFilipe_RSC2022.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Revista de Sistemas e Computação 
     <li> <b>Citação</b>: SOUZA, Mateus Filipe de Lima; TARGA, Cristiane Norbiato; SILVA, Carlos Alexandre. Mineração de Opinião aplicada a postagens do Twitter sobre o Ensino Remoto Emergencial em Institutos Federais. Revista de Sistemas e Computação-RSC, v. 12, n. 2, 2022. </li>
     <li> <b>Link</b>: https://revistas.unifacs.br/index.php/rsc/article/view/7707 </li>
     <li> <b>DOI</b>: https://doi.org/10.36558/rsc.v12i2.7707 </li>
@@ -36,15 +38,17 @@ da comunidade acadêmica, além de uma certa estabilização dos sentimentos mai
 </li>
 
 <li>
-Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/Anomalia_TrafegoRedes_MachineLearning_Welton_ENCOMPIF2022.pdf
-
-Citação: SOUSA, Welton TM; SILVA, Carlos A. Classificaçao do Tráfego de Rede por Meio do Fluxo de Rede Utilizando Algoritmos de Aprendizado de Máquina para Detecçao de Anomalia. In: Anais do IX Encontro Nacional de Computação dos Institutos Federais. SBC, 2022. p. 61-68.
-
-Link: https://sol.sbc.org.br/index.php/encompif/article/view/20436
-
-DOI: https://doi.org/10.5753/encompif.2022.223182
-
-Observação: Selecionado entre os 3 melhores artigos da sessão do evento para envio para periódico
+  <ul>
+    <li> <b>Aluno</b>: Welton Thiago Martins de Sousa</li>
+    <li> <b>Título do trabalho</b>: Classificaçao do Tráfego de Rede por Meio do Fluxo de Rede Utilizando Algoritmos de Aprendizado de Máquina para Detecçao de Anomalia</li>
+    <li> <b>Resumo</b>: A classificação do tráfego de rede por meio do fluxo de rede possui grande relevância no contexto dos ataques cibernéticos. Diversos segmentos da sociedade são afetados por esses ataques, os quais podem representar perdas financeiras significativas. Além disso, os métodos convencionais como antivírus e firewall nem sempre conseguem identificar anomalias na rede. Motivado por estas circunstâncias, este artigo propõe o estudo e aplicação de sete algoritmos de aprendizado de máquina com a utilização de seleção de atributos na classificaço do tráfego de rede por meio do fluxo de rede, primando a automatização na identificação de fluxo anômalo, contribuindo para a obtenção de métrica no auxílio à tomada de decisão por administradores de redes.</li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Anomalia_TrafegoRedes_MachineLearning_Welton_ENCOMPIF2022.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Encontro Nacional de Computação dos Institutos Federais 
+    <li> <b>Citação</b>: SOUSA, Welton TM; SILVA, Carlos A. Classificaçao do Tráfego de Rede por Meio do Fluxo de Rede Utilizando Algoritmos de Aprendizado de Máquina para Detecçao de Anomalia. In: Anais do IX Encontro Nacional de Computação dos Institutos Federais. SBC, 2022. p. 61-68. </li>
+    <li> <b>Link</b>: https://sol.sbc.org.br/index.php/encompif/article/view/20436 </li>
+    <li> <b>DOI</b>: https://doi.org/10.5753/encompif.2022.223182 </li>
+    <li> <b>Observação</b>: Selecionado entre os 3 melhores artigos da sessão do evento para envio para periódico </li>
+  </ul>
 </li>
 
 <li>
