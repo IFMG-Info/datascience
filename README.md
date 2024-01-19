@@ -82,8 +82,8 @@ DOI:
 </ol>
 
 ---------------------------------------------------
-<h1>Ciência de Dados / Turma: 2019 (ano da disciplina: 2022)</h1>
+<h3>Ciência de Dados / Turma: 2019 (ano da disciplina: 2022)</h3>
 
 
 ---------------------------------------------------
-<h1>Ciência de Dados / Turma: 2020 (ano da disciplina: 2023)</h1>
+<h3>Ciência de Dados / Turma: 2020 (ano da disciplina: 2023)</h3>
