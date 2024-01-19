@@ -10,10 +10,10 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
 
 
 <ol>
-<p align="Justify">  
+ 
 
 <li>
-  <ul>
+  <ul><p align="Justify"> 
     <li> <b>Aluno</b>: Mateus Filipe de Lima Souza</li>
     <li> <b>Título do trabalho</b>: Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineração de Opinião</li>
     <li> <b>Resumo</b>: O ensino remoto emergencial (ERE) foi uma estratégia didática e pedagógica adotada por instituições educacionais do mundo inteiro para diminuir
@@ -24,7 +24,7 @@ os impactos provocados pela Covid-19. Neste período o uso das redes sociais se 
     <li> <b>Link</b>: https://sol.sbc.org.br/index.php/encompif/article/view/20435 </li>
     <li> <b>DOI</b>: https://doi.org/10.5753/encompif.2022.223080 </li>
     <li> <b>Observação</b>: Selecionado entre os 3 melhores artigos da sessão do evento para envio para periódico </li>
-  </ul>
+  </ul></p>
 </li>
 
 <li>
@@ -89,5 +89,3 @@ DOI:
 
 ---------------------------------------------------
 <h1>Ciência de Dados / Turma: 2020 (ano da disciplina: 2023)</h1>
-
-</p>
