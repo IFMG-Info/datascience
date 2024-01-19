@@ -9,9 +9,10 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
 
 <li>
   <ul>
-    <li> <b>Aluno</b>: </li>
-    <li> <b>Título do trabalho</b>: </li>
-    <li> <b>Resumo</b>: </li>
+    <li> <b>Aluno</b>: Mateus Filipe de Lima Souza</li>
+    <li> <b>Título do trabalho</b>: Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opiniao</li>
+    <li> <b>Resumo</b>: O ensino remoto emergencial (ERE) foi uma estratégia didática e pedagógica adotada por instituições educacionais do mundo inteiro para diminuir
+os impactos provocados pela Covid-19. Neste período o uso das redes sociais se intensificaram. Este trabalho apresenta um estudo sobre a percepção e os sentimentos da comunidade acadêmica de Institutos Federais no período compreendendo o ERE de 2020 à 2021, utilizando técnicas de mineração de opinião. Construímos uma base de dados coletada a partir do Twitter e aplicamos o método Multinomial Naive Bayes para categorizar os sentimentos. Os resultados mostram uma certa estabilização dos sentimentos da comunidade a partir de fevereiro de 2021.</li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/ERE_IF_MateusFilipe_ENCOMPIF2022.pdf </li>
     <li> <b>Citação</b>: SOUZA, Mateus FL; TARGA, Cristiane N.; SILVA, Carlos A. Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opiniao. In: Anais do IX Encontro Nacional de Computação dos Institutos Federais. SBC, 2022. p. 53-60. </li>
     <li> <b>Link</b>: https://sol.sbc.org.br/index.php/encompif/article/view/20435 </li>
@@ -21,13 +22,17 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
 </li>
 
 <li>
-Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/Mineracao_Opiniao_Twitter_ERE_IF_MateusFilipe_RSC2022.pdf
-
-Citação: SOUZA, Mateus Filipe de Lima; TARGA, Cristiane Norbiato; SILVA, Carlos Alexandre. Mineração de Opinião aplicada a postagens do Twitter sobre o Ensino Remoto Emergencial em Institutos Federais. Revista de Sistemas e Computação-RSC, v. 12, n. 2, 2022.
-
-Link: https://revistas.unifacs.br/index.php/rsc/article/view/7707
-
-DOI: https://doi.org/10.36558/rsc.v12i2.7707
+  <ul>
+    <li> <b>Aluno</b>: Mateus Filipe de Lima Souza</li>
+    <li> <b>Título do trabalho</b>: Mineração de Opinião aplicada a postagens do Twitter sobre o Ensino Remoto Emergencial em Institutos Federais</li>
+    <li> <b>Resumo</b>: Neste trabalho é proposto um estudo sobre a percepção e os sentimentos da comunidade acadêmica de Institutos Federais no período compreendendo o Ensino Remoto Emergencial de 2020 a 2021, utilizando técnicas de mineração de opinião a partir de postagens da rede social Twitter. Foram realizadas coletas de tweets em cinco momentos distintos, a fim de construir uma base de dados para a aplicação do método Multinomial Naive Bayes, no intuito de categorizar os sentimentos percebidos. Os tweets foram classificados em positivos, negativos e neutros e pelos resultados obtidos percebeu-se uma prevalência da neutralidade dos sentimentos
+da comunidade acadêmica, além de uma certa estabilização dos sentimentos mais positivos a partir de fevereiro de
+2021.</li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Mineracao_Opiniao_Twitter_ERE_IF_MateusFilipe_RSC2022.pdf </li>
+    <li> <b>Citação</b>: SOUZA, Mateus Filipe de Lima; TARGA, Cristiane Norbiato; SILVA, Carlos Alexandre. Mineração de Opinião aplicada a postagens do Twitter sobre o Ensino Remoto Emergencial em Institutos Federais. Revista de Sistemas e Computação-RSC, v. 12, n. 2, 2022. </li>
+    <li> <b>Link</b>: https://revistas.unifacs.br/index.php/rsc/article/view/7707 </li>
+    <li> <b>DOI</b>: https://doi.org/10.36558/rsc.v12i2.7707 </li>
+  </ul>
 </li>
 
 <li>
