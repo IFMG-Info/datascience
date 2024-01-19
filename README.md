@@ -5,6 +5,7 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
 <h3>Antes da criação da disciplina</h3>
 
 <ol>
+  <li>
   <ul>
     <li> <b>Aluno</b>: Nayne França Gomes</li>
     <li> <b>Orientadora</b>: Cristiane Norbiato Targa</li>
@@ -21,6 +22,7 @@ Educação, Ciência e Tecnologia do Brasil com o indicadores de ansiedade. Para
     <li> <b>Link</b>:  https://www.ifmg.edu.br/sic/edicoes-anteriores/resumos-2018/analise-de-sentimentos-no-twitter-para-a-identificacao-de-alunos-dos-institutos-federais-com-transtorno-de-ansiedade.pdf/view</li>
     <li> <b>Observação</b>: Menção honrosa no VII Seminário de Iniciação Científica do IFMG </i>
   </ul>
+  </li>
 </ol>
 ---------------------------------------------------
 <h3>Ciência de Dados / Turma: 2018 (ano da disciplina: 2021)</h3>
