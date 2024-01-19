@@ -13,18 +13,18 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
  
 
 <li>
-  <ul><p align="Justify"> 
+  <ul>
     <li> <b>Aluno</b>: Mateus Filipe de Lima Souza</li>
     <li> <b>Título do trabalho</b>: Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineração de Opinião</li>
-    <li> <b>Resumo</b>: O ensino remoto emergencial (ERE) foi uma estratégia didática e pedagógica adotada por instituições educacionais do mundo inteiro para diminuir
+    <li> <b>Resumo</b>: <p align="Justify"> O ensino remoto emergencial (ERE) foi uma estratégia didática e pedagógica adotada por instituições educacionais do mundo inteiro para diminuir
 os impactos provocados pela Covid-19. Neste período o uso das redes sociais se intensificaram. Este trabalho apresenta um estudo sobre a percepção e os sentimentos da comunidade acadêmica de Institutos Federais no período compreendendo o ERE de 2020 à 2021, utilizando técnicas de mineração de opinião. Construímos uma base de dados coletada a partir do Twitter e aplicamos o método Multinomial Naive Bayes para categorizar os sentimentos. Os resultados mostram uma certa estabilização dos sentimentos da comunidade a partir de fevereiro de 2021.</li>
-    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/ERE_IF_MateusFilipe_ENCOMPIF2022.pdf </li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/ERE_IF_MateusFilipe_ENCOMPIF2022.pdf </li></p>
     <li> <b>Veículo de divulgação</b>: Encontro Nacional de Computação dos Institutos Federais 
     <li> <b>Citação</b>: SOUZA, Mateus FL; TARGA, Cristiane N.; SILVA, Carlos A. Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opiniao. In: Anais do IX Encontro Nacional de Computação dos Institutos Federais. SBC, 2022. p. 53-60. </li>
     <li> <b>Link</b>: https://sol.sbc.org.br/index.php/encompif/article/view/20435 </li>
     <li> <b>DOI</b>: https://doi.org/10.5753/encompif.2022.223080 </li>
     <li> <b>Observação</b>: Selecionado entre os 3 melhores artigos da sessão do evento para envio para periódico </li>
-  </ul></p>
+  </ul>
 </li>
 
 <li>
