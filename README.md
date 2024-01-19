@@ -4,7 +4,24 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
 ---------------------------------------------------
 <h3>Antes da criação da disciplina</h3>
 
-
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Nayne França Gomes</li>
+    <li> <b>Orientadora</b>: Cristiane Norbiato Targa</li>
+    <li> <b>Coorientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Título do trabalho</b>: Análise de sentimentos no Twitter para a identificação de indivíduos com sintomas de ansiedade relacionados aos Institutos Federais</li>
+    <li> <p align="Justify"><b>Resumo</b>: As redes sociais são cada vez mais usadas, seja como forma de entretenimento, comunicação ou liberdade de expressão, sendo
+responsável por gerar grande quantidade de dados, que extraídos podem apresentar conhecimento útil. Diversos trabalhos têm sido realizados utilizando técnicas de extração de conhecimento por meio de métodos baseados em aprendizado de máquina, como a análise de sentimentos, sobre textos oriundos de redes sociais, permitindo
+compreender diversos fenômenos sociais complexos. Um dos problemas sociais que afeta milhares de pessoas em todo o mundo é a ansiedade. O objetivo deste trabalho é a criação de uma API capaz de gerar e analisar sentenças ansiosas. A ferramenta será usada na identificação de indivíduos relacionados aos Institutos Federais de
+Educação, Ciência e Tecnologia do Brasil com o indicadores de ansiedade. Para a identificação desses perfis foi desenvolvido um modelo de aprendizado de máquina e um dicionário ansioso contendo 4.975 palavras. Tweets de usuários oriundos de 11 Institutos Federais foram analisados de acordo com o modelo gerado. </p></li>
+    <li> <b>Artigo no git</b>:  </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG (não disponível)
+    <li> <b>Citação 1</b>: GOMES, Nayane F. ; TARGA, Cristiane N. ; SILVA, Carlos A.. Análise de sentimentos no Twitter para a identificação de indivíduos com sintomas de ansiedade relacionados aos Institutos Federais. 2019. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal Minas Gerais. </li>
+    <li> <b>Citação 2</b>: GOMES, Nayane F. ; TARGA, Cristiane N. ; SILVA, Carlos A. . Análise de sentimentos no Twitter para a identificação de alunos dos Institutos Federais com Transtorno de Ansiedade. In: VII Seminário de Iniciação Científica do IFMG, 2018, Sabará. SIC 2018, 2018. v. 1. </li>
+    <li> <b>Link</b>:  https://www.ifmg.edu.br/sic/edicoes-anteriores/resumos-2018/analise-de-sentimentos-no-twitter-para-a-identificacao-de-alunos-dos-institutos-federais-com-transtorno-de-ansiedade.pdf/view</li>
+    <li> <b>Observação</b>: Menção honrosa no VII Seminário de Iniciação Científica do IFMG </i>
+  </ul>
+</li>
 ---------------------------------------------------
 <h3>Ciência de Dados / Turma: 2018 (ano da disciplina: 2021)</h3>
 
@@ -85,7 +102,7 @@ mensurar de forma quantitativa a qualidade das recomendações pode ser
 demasiadamente complexo. Neste trabalho, propomos duas métricas para avaliar o resultado de algoritmos de recomendação: a Single Recommended Item Metric (SRIM) e List of Recommended Items Metric (LRIM). Na primeira, o propósito é avaliar algoritmos de recomendação que retornam apenas um item, enquanto a segunda tem o objetivo de avaliar recomendações de múltiplos itens. Desta forma, nós aplicamos as métricas propostas para avaliar tais algoritmos de recomendação utilizando uma clássica base de dados de filmes. Os resultados
 mostram que o algoritmo de recomendação AR2 provê recomendações mais relevantes que o algoritmo AR1 de acordo com as métricas SRIM e LRIM. Além disso, no LRIM detectamos que o algoritmo AR2 supera em pouco mais de 8% em relação ao AR1. </p></li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Algoritmos_Recomendacao_ItensUnicos_Listas_GuilhermeBasilio_TCC2022.pdf </li>
-    <li> <b>Veículo de divulgação</b>: Repositório IFMG 
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG (ainda não disponível)
     <li> <b>Citação</b>: SOUTO, Guilherme Basílio; Filho, Renato Miranda; SILVA, Carlos Alexandre. Algoritmos de Recomendação: Propostas para Avaliação das Recomendações de Itens  ́Únicos ou Lista de Itens. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2022. </li>
     <li> <b>Link</b>:  </li>
   </ul>
