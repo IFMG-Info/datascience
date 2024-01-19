@@ -114,7 +114,52 @@ mostram que o algoritmo de recomendação AR2 provê recomendações mais releva
 
 ---------------------------------------------------
 <h3>Ciência de Dados / Turma: 2019 (ano da disciplina: 2022)</h3>
+<ol>
+  <li>
+  <ul>
+    <li> <b>Aluno</b>: Lucas Laet Lira</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientador</b>: Renato Miranda Filho</li>
+    <li> <b>Título do trabalho</b>: Uma Perspectiva dos Institutos Federais em Minas Gerais sob a Análise Histórica de Bolsas ofertadas pelo CNPq para a Área da Computação entre 2015 a 2022</li>
+    <li> <p align="Justify"><b>Resumo</b>: O Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) é a principal agência de fomento à pesquisa do país e as áreas de Engenharia e Computação compõem os principais eixos formadores e geradores de produtos no campo de tecnologia. Tendo em vista a importância do fomento desta agência, sobretudo, na área de Computação, este artigo busca identificar a relevância dos Institutos Federais de Minas Gerais no recebimento de recursos no âmbito científico nacional. Além disso, foi realizada uma comparação com universidades federais mineiras, por meio de uma análise de dados referente à captação de bolsas de pesquisas em um cenário regido por diferentes governanças políticas entre o período de 2015 a 2022. Nota-se uma discrepância entre os fomentos por gestões
+governamentais e uma mudança na disponibilidade de bolsas em suas categorias, enquanto no âmbito específico das bolsas destinadas aos Institutos Federais, é
+verificada uma presença relevante na captação, onde estes tiveram destaque nesse aspecto, em comparação a universidades tradicionais do estado de Minas Gerais. </p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Uma_Perspectiva_IFMG_Bolsas_CNPq_Comp_LucasLaet_CONIC2023.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG (não disponível)
+    <li> <b>Citação</b>: LIRA, L. L. ; MIRANDA FILHO, R. ; SILVA, C.A. . Uma Perspectiva dos Institutos Federais em Minas Gerais sob a Análise Histórica de Bolsas ofertadas pelo CNPq para a Área da Computação entre 2015 a 2022. In: Congresso Nacional de Iniciação Científica, 2023. Anais do Conic-Semesp, 2023. v. 11. p. 1-11. </li>
+    <li> <b>Link</b>: https://www.conic-semesp.org.br/anais/files/2023/trabalho-1000010788.pdf </li>
+  </ul>
+</li>
 
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Matheus Henrick Dias</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientador</b>: Danilo Boechat Seufitelli</li>
+    <li> <b>Título do trabalho</b>: Resultados da Copa do Mundo de Futebol Masculino 2022: Análise Preditiva Orientada a Dados</li>
+    <li> <p align="Justify"><b>Resumo</b>: Neste trabalho, apresentamos uma abordagem para análise preditiva de resultados da Copa do Mundo de Futebol Masculino, utilizando quatro algoritmos de aprendizagem supervisionada aplicados aos dados históricos das seleções antes do início do torneio de 2022. O objetivo foi obter uma estimativa precisa acerca do time vencedor, mesmo antes do início da primeira partida, utilizando dados de jogos das edições anteriores. Os experimentos demonstram que as seleções tendem a seguir padrões de desempenho consistentes a médio e longo prazo, mesmo que ocorram mudanças no elenco e na comissão técnica. Além disso, os métodos de aprendizagem supervisionada mostraram-se eficazes para prever resultados nesse cenário com variáveis limitadas. Essa abordagem realizada proporciona uma visão promissora para a previsão de resultados esportivos, permitindo uma análise antecipada e otimista dos resultados da Copa do Mundo de Futebol, além de
+demonstrar possibilidade de utilização das ferramentas de inteligência artificial na solução desse tipo de problema. </p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Resultados_CopaMundo22_Preditiva_MatheusHenrick_CONIC2023.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG (não disponível)
+    <li> <b>Citação</b>: DIAS, M. H. ; SEUFITELLI, D. B. ; SILVA, C. A. . Resultados da Copa do Mundo de Futebol Masculino 2022: Análise Preditiva Orientada a Dados. In: Congresso Nacional de Iniciação Científica, 2023. Anais do Conic-Semesp, 2023. v. 11. p. 1-10.S </li>
+    <li> <b>Link</b>: https://www.conic-semesp.org.br/anais/files/2023/trabalho-1000010847.pdf </li>
+  </ul>
+</li>
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Gabriel de Paula Valentim </li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientador</b>: Danilo Boechat Seufitelli</li>
+    <li> <b>Título do trabalho</b>: Eleições Presidenciais de 2022: Predições com Dados de Pesquisas Eleitorais do Poder360 e PollingData</li>
+    <li> <p align="Justify"><b>Resumo</b>:  </p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Eleicoes_Presidenciais2022_Predicao_Poder360_PollingData_GabrielPaula_TCC2023.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG (não disponível)
+    <li> <b>Citação</b>: VALENTIM, Gabriel P.; SEUFITELLI, Danilo B.; SILVA, Carlos A.. Eleições Presidenciais de 2022: Predições com Dados de Pesquisas Eleitorais do Poder360 e PollingData. 2023. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal Minas Gerais. </li>
+    <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
+  </ul>
+</li>
+</ol>
 
 ---------------------------------------------------
 <h3>Ciência de Dados / Turma: 2020 (ano da disciplina: 2023)</h3>
