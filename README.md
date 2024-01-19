@@ -1,4 +1,4 @@
-Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou que se tornou o Trabalho de Conclusão de Curso defendido, cujo desenvolvimento iniciou na disciplina de Ciência de Dados ou logo após terem cursado a disciplina.
+Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou que se tornou o Trabalho de Conclusão de Curso defendido, cujo desenvolvimento iniciou na disciplina de Ciência de Dados ou logo após terem cursado a disciplina ou provindo de algum projeto de pesquisa nesta área.
 
 ---------------------------------------------------
 <h1>Ciência de Dados / Turma: 2018 (ano da disciplina: 2021)</h1>
