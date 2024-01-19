@@ -8,15 +8,16 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
   
 
 <li>
-Artigo no git: https://github.com/IFMG-Info/datascience/blob/main/ERE_IF_MateusFilipe_ENCOMPIF2022.pdf
-
-Citação: SOUZA, Mateus FL; TARGA, Cristiane N.; SILVA, Carlos A. Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opiniao. In: Anais do IX Encontro Nacional de Computação dos Institutos Federais. SBC, 2022. p. 53-60.
-
-Link: https://sol.sbc.org.br/index.php/encompif/article/view/20435
-
-DOI: https://doi.org/10.5753/encompif.2022.223080
-
-Observação: Selecionado entre os 3 melhores artigos da sessão do evento para envio para periódico
+  <ul>
+    <li> <b>Aluno</b>: </li>
+    <li> <b>Título do trabalho</b>: </li>
+    <li> <b>Resumo</b>: </li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/ERE_IF_MateusFilipe_ENCOMPIF2022.pdf </li>
+    <li> <b>Citação: SOUZA, Mateus FL; TARGA, Cristiane N.; SILVA, Carlos A. Um Estudo sobre a Percepçao do Ensino Remoto Emergencial em Institutos Federais baseado em Mineraçao de Opiniao. In: Anais do IX Encontro Nacional de Computação dos Institutos Federais. SBC, 2022. p. 53-60. </li>
+    <li> <b>Link</b>: https://sol.sbc.org.br/index.php/encompif/article/view/20435 </li>
+    <li> <b>DOI</b>: https://doi.org/10.5753/encompif.2022.223080 </li>
+    <li> <b>Observação</b>: Selecionado entre os 3 melhores artigos da sessão do evento para envio para periódico </li>
+  </ul>
 </li>
 
 <li>
