@@ -178,7 +178,7 @@ demonstrar possibilidade de utilização das ferramentas de inteligência artifi
 <li>
   <ul>
     <li> <b>Aluno</b>: Uciolli Betelli Ferreira Lemos </li>
-    <li> <b>Orientadora</b>: Renato Miranda Filho</li>
+    <li> <b>Orientador</b>: Renato Miranda Filho</li>
     <li> <b>Coorientador</b>: Carlos Alexandre Silva</li>
     <li> <b>Título do trabalho</b>: Análise do perfil de voto das mesorregiões de Minas Gerais no processo eleitoral de 2022</li>
     <li> <p align="Justify"><b>Resumo</b>:
