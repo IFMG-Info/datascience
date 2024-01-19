@@ -159,6 +159,39 @@ demonstrar possibilidade de utilização das ferramentas de inteligência artifi
     <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
   </ul>
 </li>
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Pedro Gabriel Cruz </li>
+    <li> <b>Orientadora</b>: Cristiane Norbiato Targa</li>
+    <li> <b>Coorientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Título do trabalho</b>: Como a pandemia do COVID-19 impactou os alunos participantes do ENEM nas capitais dos estados do sudeste do Brasil? Uma ańalise de dados com base nos parâmetros de localização e socioeconômicos dos estudante</li>
+    <li> <p align="Justify"><b>Resumo</b>:
+  </p></li>
+    <li> <b>Artigo no git</b>:  </li>
+    <li> <b>Veículo de divulgação</b>: 
+    <li> <b>Citação</b>:  </li>
+    <li> <b>Link</b>:  </li>
+  </ul>
+</li>
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Uciolli Betelli Ferreira Lemos </li>
+    <li> <b>Orientadora</b>: Renato Miranda Filho</li>
+    <li> <b>Coorientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Título do trabalho</b>: Análise do perfil de voto das mesorregiões de Minas Gerais no processo eleitoral de 2022</li>
+    <li> <p align="Justify"><b>Resumo</b>:
+  </p></li>
+    <li> <b>Artigo no git</b>:  </li>
+    <li> <b>Veículo de divulgação</b>: 
+    <li> <b>Citação</b>:  </li>
+    <li> <b>Link</b>:  </li>
+  </ul>
+</li>
+
+
+
 </ol>
 
 ---------------------------------------------------
