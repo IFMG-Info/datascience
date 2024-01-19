@@ -15,6 +15,8 @@ Citação: SOUZA, Mateus FL; TARGA, Cristiane N.; SILVA, Carlos A. Um Estudo sob
 Link: https://sol.sbc.org.br/index.php/encompif/article/view/20435
 
 DOI: https://doi.org/10.5753/encompif.2022.223080
+
+Observação: Selecionado entre os 3 melhores artigos da sessão do evento para envio para periódico
 </li>
 
 <li>
@@ -35,6 +37,8 @@ Citação: SOUSA, Welton TM; SILVA, Carlos A. Classificaçao do Tráfego de Rede
 Link: https://sol.sbc.org.br/index.php/encompif/article/view/20436
 
 DOI: https://doi.org/10.5753/encompif.2022.223182
+
+Observação: Selecionado entre os 3 melhores artigos da sessão do evento para envio para periódico
 </li>
 
 <li>
