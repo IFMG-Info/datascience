@@ -1,5 +1,5 @@
 <p align="Justify">
-Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou que se tornou o Trabalho de Conclusão de Curso defendido, cujo desenvolvimento iniciou na disciplina de Ciência de Dados ou logo após terem cursado a disciplina ou provindo de algum projeto de pesquisa nesta área. Os trabalhos que foram publicados estão divulgados em formato de <b>artigo completo</b> em Congressos/Conferências/Simpósios/Encontros de porte <b>nacional ou interacional</b> ou em <b>periódico com qualis</b> (regras de equivalência de TCC para o curso de BSI/IFMG-Sabará).
+Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou que se tornou o Trabalho de Conclusão de Curso defendido, cujo desenvolvimento iniciou na disciplina de Ciência de Dados ou logo após terem cursado a disciplina ou provindo de algum projeto de pesquisa nesta área. Os trabalhos que foram publicados estão divulgados em formato de <b>artigo completo</b> em Congressos/Conferências/Simpósios/Encontros de porte <b>nacional ou interacional</b> ou em <b>periódico com qualis</b> (regras de equivalência de TCC para o curso de BSI/IFMG-Sabará).</p>
 
 ---------------------------------------------------
 <h3>Antes da criação da disciplina</h3>
@@ -10,7 +10,7 @@ Artigos de alunos do BSI/IFMG-Sabará publicados em congressos ou periódicos ou
 
 
 <ol>
-  
+<p align="Justify">  
 
 <li>
   <ul>
