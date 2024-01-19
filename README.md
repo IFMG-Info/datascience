@@ -83,8 +83,7 @@ detecção de intrusão em fluxo de rede utilizando nove algoritmos de aprendiza
     <li> <p align="Justify"><b>Resumo</b>: Os algoritmos de recomendação desempenham o papel de aperfeiçoar e automatizar a tarefa de se fazer boas recomendações. No entanto,
 mensurar de forma quantitativa a qualidade das recomendações pode ser
 demasiadamente complexo. Neste trabalho, propomos duas métricas para avaliar o resultado de algoritmos de recomendação: a Single Recommended Item Metric (SRIM) e List of Recommended Items Metric (LRIM). Na primeira, o propósito é avaliar algoritmos de recomendação que retornam apenas um item, enquanto a segunda tem o objetivo de avaliar recomendações de múltiplos itens. Desta forma, nós aplicamos as métricas propostas para avaliar tais algoritmos de recomendação utilizando uma clássica base de dados de filmes. Os resultados
-mostram que o algoritmo de recomendação AR2 provê recomendações mais
-relevantes que o algoritmo AR1 de acordo com as métricas SRIM e LRIM. Além disso, no LRIM detectamos que o algoritmo AR2 supera em pouco mais de 8% em relação ao AR1. </p></li>
+mostram que o algoritmo de recomendação AR2 provê recomendações mais relevantes que o algoritmo AR1 de acordo com as métricas SRIM e LRIM. Além disso, no LRIM detectamos que o algoritmo AR2 supera em pouco mais de 8% em relação ao AR1. </p></li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Algoritmos_Recomendacao_ItensUnicos_Listas_GuilhermeBasilio_TCC2022.pdf </li>
     <li> <b>Veículo de divulgação</b>: Repositório IFMG 
     <li> <b>Citação</b>: SOUTO, Guilherme Basílio; Filho, Renato Miranda; SILVA, Carlos Alexandre. Algoritmos de Recomendação: Propostas para Avaliação das Recomendações de Itens  ́Únicos ou Lista de Itens. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2022. </li>
