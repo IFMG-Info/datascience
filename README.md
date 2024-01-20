@@ -110,7 +110,7 @@ mostram que o algoritmo de recomendação AR2 provê recomendações mais releva
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Algoritmos_Recomendacao_ItensUnicos_Listas_GuilhermeBasilio_TCC2022.pdf </li>
     <li> <b>Veículo de divulgação</b>: Repositório IFMG (ainda não disponível)
     <li> <b>Citação</b>: SOUTO, Guilherme Basílio; Filho, Renato Miranda; SILVA, Carlos Alexandre. Algoritmos de Recomendação: Propostas para Avaliação das Recomendações de Itens  ́Únicos ou Lista de Itens. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2022. </li>
-    <li> <b>Link</b>:  </li>
+    <li> <b>Link</b>:  Repositório do IFMG (ainda não disponível) </li>
   </ul>
 </li>
 
