@@ -193,9 +193,65 @@ verificada uma presença relevante na captação, onde estes tiveram destaque ne
   </ul>
 </li>
 
-
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Bruno Victor Vasconcelos</li>
+    <li> <b>Orientadora</b>: Cristiane Norbiato Targa</li>
+    <li> <b>Coorientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Título do trabalho</b>: Mineração de Opinião na rede social X sobre as eleições presidenciais de 2022</li>
+    <li> <p align="Justify"><b>Resumo</b>: As redes sociais, comumente presentes no cotidiano das pessoas, tem sido bastante utilizadas para divulgar produtos, serviços e expressar opiniões, configurando-se como uma relevante ferramenta para busca e análise de informações sobre os mais variados assuntos. No cenário político, o uso das redes sociais tem se intensificado e sido utilizado como uma das principais formas de comunicação com os eleitores, além de representar um significativo indicador da popularidade na política. O objetivo desse estudo é classificar os sentimentos dos posts da rede social X relacionado com os dois candidatos que foram para o segundo turno das eleições presidenciais brasileira de 2022, Bolsonaro e Lula, em positivos, negativos ou neutros, a fim de compreender e avaliar a percepção pública em relação a esses políticos. Para isso, construímos uma base de dados, realizamos um pré-processamento dos dados e utilizamos o algoritmo de Naive Bayes para classificar os posts. </p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Mineracao_Opiniao_X_Eleicoes_Presidenciais_2022_BrunoVasconcelos_TCC2024.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG (não disponível) </li>
+    <li> <b>Citação</b>: VASCONCELOS, B. V. ; TARGA, C. N. ; SILVA, C. A. Mineração de Opinião na rede social X sobre as eleições presidenciais de 2022. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2024. </li>
+    <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
+  </ul>
+</li>
 
 </ol>
 
 ---------------------------------------------------
 <h3>Ciência de Dados / Turma: 2020 (ano da disciplina: 2023)</h3>
+
+<ol> 
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: </li>
+    <li> <b>Orientadora</b>: </li>
+    <li> <b>Coorientador</b>: </li>
+    <li> <b>Título do trabalho</b>: </li>
+    <li> <p align="Justify"><b>Resumo</b>:  </li>
+    <li> <b>Artigo no git</b>:  </p></li>
+    <li> <b>Veículo de divulgação</b>:  </li>
+    <li> <b>Citação</b>:  </li>
+    <li> <b>Link</b>:  </li>
+    <li> <b>DOI</b>:  </li>
+    <li> <b>Observação</b>:  </li>
+  </ul>
+</li>
+
+</ol>
+
+---------------------------------------------------
+<h3>Ciência de Dados / Turma: 2020 (ano da disciplina: 2024)</h3>
+
+<ol> 
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: </li>
+    <li> <b>Orientadora</b>: </li>
+    <li> <b>Coorientador</b>: </li>
+    <li> <b>Título do trabalho</b>: </li>
+    <li> <p align="Justify"><b>Resumo</b>:  </li>
+    <li> <b>Artigo no git</b>:  </p></li>
+    <li> <b>Veículo de divulgação</b>:  </li>
+    <li> <b>Citação</b>:  </li>
+    <li> <b>Link</b>:  </li>
+    <li> <b>DOI</b>:  </li>
+    <li> <b>Observação</b>:  </li>
+  </ul>
+</li>
+
+</ol>
+
