@@ -184,12 +184,12 @@ verificada uma presença relevante na captação, onde estes tiveram destaque ne
     <li> <b>Orientador</b>: Renato Miranda Filho</li>
     <li> <b>Coorientador</b>: Carlos Alexandre Silva</li>
     <li> <b>Título do trabalho</b>: Análise do perfil de voto das mesorregiões de Minas Gerais no processo eleitoral de 2022</li>
-    <li> <p align="Justify"><b>Resumo</b>:
+    <li> <p align="Justify"><b>Resumo</b>: Eleições representam momentos cruciais em um sistema democrático, no qual os candidatos enfrentam desafios de recursos financeiros e de tempo limitados para conduzir suas campanhas.  Compreender o comportamento do eleitorado é fundamental para otimizar os custos e a eficácia das campanhas eleitorais. Neste estudo, propomos a identificação e análise dos atributos mais influentes nos candidatos a deputado estadual e federal nas eleições de 2022 em cada uma das doze mesorregiões do estado de Minas Gerais, utilizando técnicas de mineração de dados, incluindo o algoritmo de Árvore de Regressão. Os resultados indicam que fatores como raça, gênero, valor dos bens declarados e o estado civil desempenham um papel significativo na determinação da quantidade de votos recebidos pelos candidatos.
   </p></li>
-    <li> <b>Artigo no git</b>:  </li>
-    <li> <b>Veículo de divulgação</b>: </li>
-    <li> <b>Citação</b>:  </li>
-    <li> <b>Link</b>:  </li>
+    <li> <b>Artigo no git</b>:  https://github.com/IFMG-Info/datascience/blob/main/Analise_perfil_voto_mesorregioes_MG_eleicao_2022_Uciolli_TCC2023.pdf</li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG (ainda não disponível)</li>
+    <li> <b>Citação</b>:  LEMOS, U. B. F.; SILVA, C. A.; FILHO, R. M. Análise do perfil de voto das mesorregiões de Minas Gerais no processo eleitoral de 2022. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2023.</li>
+    <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
   </ul>
 </li>
 
@@ -216,11 +216,27 @@ verificada uma presença relevante na captação, onde estes tiveram destaque ne
 
 <li>
   <ul>
-    <li> <b>Aluno</b>: </li>
-    <li> <b>Orientadora</b>: </li>
-    <li> <b>Coorientador</b>: </li>
-    <li> <b>Título do trabalho</b>: </li>
-    <li> <p align="Justify"><b>Resumo</b>:  </li>
+    <li> <b>Aluno</b>: Pedro Rodrigues de Oliveira Gonçalves Pereira </li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva </li>
+    <li> <b>Coorientador</b>: Danilo Boechat Seufitelli </li>
+    <li> <b>Título do trabalho</b>: Microdados Enem: análise e predição do impacto na educação causado pela pandemia no estado de Minas Gerais</li>
+    <li> <p align="Justify"><b>Resumo</b>:  Esse trabalho realiza uma análise exploratória de dados e implementação de um algoritmo de rede neural MLPClassifier para realizar uma predição no impacto da pandemia em escolas públicas e particulares, utilizando os microdados do Exame Nacional do Ensino Médio (ENEM). Foi utilizado a interface Jupyter como Interface de Desenvolvimento (IDE) e o Python 3 como linguagem de programação. Com essas ferramentas, buscamos evidenciar e visualizar o elevado impacto do aprendizado nas escolas públicas em relação às escolas particulares no estado de Minas Gerais antes e depois da pandemia de COVID-19, focando em salientar os efeitos pandêmicos causados no ensino do Estado. Para isso utilizaremos os dados dos anos de 2018, 2019, 2020, 2021 e 2022 como base para nossa análise.</li>
+    <li> <b>Artigo no git</b>:  </p></li>
+    <li> <b>Veículo de divulgação</b>:  </li>
+    <li> <b>Citação</b>:  </li>
+    <li> <b>Link</b>:  </li>
+    <li> <b>DOI</b>:  </li>
+    <li> <b>Observação</b>:  </li>
+  </ul>
+</li>
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Daniel Douglas Rodrigues</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientador</b>: Danilo Boechat Seufitelli</li>
+    <li> <b>Título do trabalho</b>: Análise de sentimentos: Utilizando SVM e Regressão Logística para revisar avaliações turísticas no Brasil</li>
+    <li> <p align="Justify"><b>Resumo</b>: Nesse artigo é proposto um estudo sobre os sentimentos dos turistas após visitarem atrações turísticas no Brasil. Fundamentado nas teorias de análise de sentimentos e na influência das avaliações na tomada de decisão dos visitantes, o estudo baseia-se na extração e tratamento de uma base de dados disponibilizada no site do Kaggle. Essa base possui diversos comentários, nesse sentido foi desenvolvido um algoritmo de análise de sentimentos para classificá-los e avaliá-los, automatizando o processo de leitura de avaliações devido ao seu grande volume. As metodologias utilizadas foram Máquina de Vetores de Suporte (SVM) e  Regressão Logística, visando baixo custo computacional e alta precisão. As métricas de avaliação (acurácia, precisão, sensibilidade e F1-Score) apresentaram resultados abaixo das expectativas, com médias inferiores a 60\%, indicando a necessidade de aprimoramento nos modelos. Uma possível abordagem de melhoria seria o uso de uma base mais diversificada e representativa das avaliações turísticas. </li>
     <li> <b>Artigo no git</b>:  </p></li>
     <li> <b>Veículo de divulgação</b>:  </li>
     <li> <b>Citação</b>:  </li>
@@ -233,14 +249,14 @@ verificada uma presença relevante na captação, onde estes tiveram destaque ne
 </ol>
 
 ---------------------------------------------------
-<h3>Ciência de Dados / Turma: 2020 (ano da disciplina: 2024)</h3>
+<h3>Ciência de Dados / Turma: 2021 (ano da disciplina: 2024)</h3>
 
 <ol> 
 
 <li>
   <ul>
     <li> <b>Aluno</b>: </li>
-    <li> <b>Orientadora</b>: </li>
+    <li> <b>Orientador</b>: </li>
     <li> <b>Coorientador</b>: </li>
     <li> <b>Título do trabalho</b>: </li>
     <li> <p align="Justify"><b>Resumo</b>:  </li>
