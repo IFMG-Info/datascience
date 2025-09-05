@@ -108,9 +108,9 @@ mensurar de forma quantitativa a qualidade das recomendações pode ser
 demasiadamente complexo. Neste trabalho, propomos duas métricas para avaliar o resultado de algoritmos de recomendação: a Single Recommended Item Metric (SRIM) e List of Recommended Items Metric (LRIM). Na primeira, o propósito é avaliar algoritmos de recomendação que retornam apenas um item, enquanto a segunda tem o objetivo de avaliar recomendações de múltiplos itens. Desta forma, nós aplicamos as métricas propostas para avaliar tais algoritmos de recomendação utilizando uma clássica base de dados de filmes. Os resultados
 mostram que o algoritmo de recomendação AR2 provê recomendações mais relevantes que o algoritmo AR1 de acordo com as métricas SRIM e LRIM. Além disso, no LRIM detectamos que o algoritmo AR2 supera em pouco mais de 8% em relação ao AR1. </p></li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Algoritmos_Recomendacao_ItensUnicos_Listas_GuilhermeBasilio_TCC2022.pdf </li>
-    <li> <b>Veículo de divulgação</b>: Repositório IFMG (ainda não disponível) </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG </li>
     <li> <b>Citação</b>: SOUTO, Guilherme Basílio; Filho, Renato Miranda; SILVA, Carlos Alexandre. Algoritmos de Recomendação: Propostas para Avaliação das Recomendações de Itens  ́Únicos ou Lista de Itens. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2022. </li>
-    <li> <b>Link</b>:  Repositório do IFMG (ainda não disponível) </li>
+    <li> <b>Link</b>:  https://repositorio.ifmg.edu.br/items/f93f86e7-364a-4907-bf2e-e2ac1a44e23d </li>
   </ul>
 </li>
 
@@ -159,7 +159,7 @@ verificada uma presença relevante na captação, onde estes tiveram destaque ne
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Eleicoes_Presidenciais2022_Predicao_Poder360_PollingData_GabrielPaula_TCC2023.pdf </li>
     <li> <b>Veículo de divulgação</b>: Repositório IFMG (não disponível) </li>
     <li> <b>Citação</b>: VALENTIM, Gabriel P.; SEUFITELLI, Danilo B.; SILVA, Carlos A.. Eleições Presidenciais de 2022: Predições com Dados de Pesquisas Eleitorais do Poder360 e PollingData. 2023. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal Minas Gerais. </li>
-    <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/f9b2c2df-9e95-41dd-86be-e57d3c27ebc0 </li>
   </ul>
 </li>
 
@@ -187,9 +187,9 @@ verificada uma presença relevante na captação, onde estes tiveram destaque ne
     <li> <p align="Justify"><b>Resumo</b>: Eleições representam momentos cruciais em um sistema democrático, no qual os candidatos enfrentam desafios de recursos financeiros e de tempo limitados para conduzir suas campanhas.  Compreender o comportamento do eleitorado é fundamental para otimizar os custos e a eficácia das campanhas eleitorais. Neste estudo, propomos a identificação e análise dos atributos mais influentes nos candidatos a deputado estadual e federal nas eleições de 2022 em cada uma das doze mesorregiões do estado de Minas Gerais, utilizando técnicas de mineração de dados, incluindo o algoritmo de Árvore de Regressão. Os resultados indicam que fatores como raça, gênero, valor dos bens declarados e o estado civil desempenham um papel significativo na determinação da quantidade de votos recebidos pelos candidatos.
   </p></li>
     <li> <b>Artigo no git</b>:  https://github.com/IFMG-Info/datascience/blob/main/Analise_perfil_voto_mesorregioes_MG_eleicao_2022_Uciolli_TCC2023.pdf</li>
-    <li> <b>Veículo de divulgação</b>: Repositório IFMG (ainda não disponível)</li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG </li>
     <li> <b>Citação</b>:  LEMOS, U. B. F.; SILVA, C. A.; FILHO, R. M. Análise do perfil de voto das mesorregiões de Minas Gerais no processo eleitoral de 2022. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2023.</li>
-    <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/2fdb476c-c452-4377-a4fb-525bc8643286 </li>
   </ul>
 </li>
 
@@ -235,14 +235,12 @@ verificada uma presença relevante na captação, onde estes tiveram destaque ne
     <li> <b>Aluno</b>: Daniel Douglas Rodrigues</li>
     <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
     <li> <b>Coorientador</b>: Danilo Boechat Seufitelli</li>
-    <li> <b>Título do trabalho</b>: Análise de sentimentos: Utilizando SVM e Regressão Logística para revisar avaliações turísticas no Brasil</li>
-    <li> <p align="Justify"><b>Resumo</b>: Nesse artigo é proposto um estudo sobre os sentimentos dos turistas após visitarem atrações turísticas no Brasil. Fundamentado nas teorias de análise de sentimentos e na influência das avaliações na tomada de decisão dos visitantes, o estudo baseia-se na extração e tratamento de uma base de dados disponibilizada no site do Kaggle. Essa base possui diversos comentários, nesse sentido foi desenvolvido um algoritmo de análise de sentimentos para classificá-los e avaliá-los, automatizando o processo de leitura de avaliações devido ao seu grande volume. As metodologias utilizadas foram Máquina de Vetores de Suporte (SVM) e  Regressão Logística, visando baixo custo computacional e alta precisão. As métricas de avaliação (acurácia, precisão, sensibilidade e F1-Score) apresentaram resultados abaixo das expectativas, com médias inferiores a 60\%, indicando a necessidade de aprimoramento nos modelos. Uma possível abordagem de melhoria seria o uso de uma base mais diversificada e representativa das avaliações turísticas. </li>
-    <li> <b>Artigo no git</b>:  </p></li>
-    <li> <b>Veículo de divulgação</b>:  </li>
-    <li> <b>Citação</b>:  </li>
-    <li> <b>Link</b>:  </li>
-    <li> <b>DOI</b>:  </li>
-    <li> <b>Observação</b>:  </li>
+    <li> <b>Título do trabalho</b>:  Análise de Avaliações Turísticas do Tripadvisor utilizando SVM e Regressão Logística</li>
+    <li> <p align="Justify"><b>Resumo</b>: Este artigo propõe um estudo sobre os sentimentos dos turistas após visitarem atrações turísticas no Brasil. Utilizando uma base de dados do Kaggle com comentários de turistas, aplicamos algoritmos de análise de sentimentos baseados em Máquina de Vetores de Suporte e Regressão Logística, visando baixo custo computacional e alta precisão. O objetivo é extrair as métricas necessárias para melhorar a experiência dos futuros visitantes. Nossos resultados mostraram uma acurácia média de 96%, indicando que os modelos empregados foram eficazes em classificar os sentimentos expressos nas avaliações. Este resultado sugere que, embora a análise de sentimentos baseada em comentários tenha sido bem-sucedida, é fundamental considerar a representatividade dos dados e o balanceamento das classes. A pesquisa oferece uma percepção valiosa sobre as oportunidades e limitações atuais e serve como base para futuros estudos na área, que possam explorar outras abordagens ou fontes de dados para aprimorar a recomendação de atrações turísticas. </li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Analise_Avaliacoes_TIPADVISOR_SVM_RegLog_DanielDouglas_CONIC2024.pdf </p></li>
+    <li> <b>Veículo de divulgação</b>: 24º Congresso Nacional de Iniciação Científica </li>
+    <li> <b>Citação</b>: RODRIGUES, D. D. ; SEUFITELLI, D. B. ; SILVA, C. A.  Análise de Avaliações Turísticas do Tripadvisor utilizando SVM e Regressão Logística. In: 24º Congresso Nacional de Iniciação Científica, 2024. 24º CONIC - SEMESP, 2024.</li>
+    <li> <b>Link</b>: https://www.conic-semesp.org.br/anais/files/2024/trabalho-1000012541.pdf?1757035886 </li>
   </ul>
 </li>
 
