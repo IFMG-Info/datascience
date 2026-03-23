@@ -19,6 +19,7 @@ Este repositório reúne produções acadêmicas na área de Ciência de Dados d
 | 2023 | Análise do perfil de voto das mesorregiões de Minas Gerais no processo eleitoral de 2022 | Uciolli Betelli Ferreira Lemos | Trabalho de Conclusão de Curso | Repositório IFMG | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Analise_perfil_voto_mesorregioes_MG_eleicao_2022_Uciolli_TCC2023.pdf) |
 | 2024 | Mineração de Opinião na rede social X sobre as eleições presidenciais de 2022 | Bruno Victor Vasconcelos | Artigo completo | CONIC 2024 | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Mineracao_Opiniao_X_Eleicoes_Presidenciais_2022_BrunoVasconcelos_CONIC2024.pdf) |
 | 2024 | Análise de Avaliações Turísticas do Tripadvisor utilizando SVM e Regressão Logística | Daniel Douglas Rodrigues | Artigo completo | CONIC 2024 | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Analise_Avaliacoes_TIPADVISOR_SVM_RegLog_DanielDouglas_CONIC2024.pdf) |
+| 2025 | Aprendizado Não Supervisionado Aplicado à Análise de Furtos de Cabos de Cobre em Belo Horizonte | Daniel Elias dos Santos | Trabalho de Conclusão de Curso | Repositório IFMG | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Aprendizado_NaoSupervisionado_Furtos_Cabos_DanielElias_TCC2025_compressed.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -229,6 +230,22 @@ Este repositório reúne produções acadêmicas na área de Ciência de Dados d
 - **Citação:** RODRIGUES, D. D.; SEUFITELLI, D. B.; SILVA, C. A. Análise de Avaliações Turísticas do Tripadvisor utilizando SVM e Regressão Logística. In: 24º Congresso Nacional de Iniciação Científica, 2024. 24º CONIC - SEMESP, 2024.
 - **Link externo:** https://www.conic-semesp.org.br/anais/files/2024/trabalho-1000012541.pdf?1757035886
 - **DOI:** Não informado
+
+---
+
+### 14. Aprendizado Não Supervisionado Aplicado à Análise de Furtos de Cabos de Cobre em Belo Horizonte
+
+- **Autor(a):** Daniel Elias dos Santos
+- **Orientador(a):** Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Trabalho de Conclusão de Curso
+- **Resumo:** O trabalho investiga a aplicação de técnicas de aprendizado não supervisionado na análise espaço-temporal de furtos de cabos de cobre em Belo Horizonte. A metodologia combina clusterização com K-Means, K-Medoids, HAC, DBSCAN e HDBSCAN, além de comparação com KDE para identificação de hotspots dinâmicos. Os resultados mostram que diferentes métodos produzem padrões espaciais distintos e que abordagens baseadas em densidade oferecem maior flexibilidade para capturar áreas críticas urbanas, contribuindo para análises mais refinadas de segurança pública e apoio à tomada de decisão.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/datascience/blob/main/Aprendizado_NaoSupervisionado_Furtos_Cabos_DanielElias_TCC2025_compressed.pdf)
+- **Veículo de divulgação:** Repositório IFMG
+- **Citação:** SANTOS, Daniel Elias dos; SILVA, Carlos Alexandre. Aprendizado Não Supervisionado Aplicado à Análise de Furtos de Cabos de Cobre em Belo Horizonte. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2025.
+- **Link externo:** https://repositorio.ifmg.edu.br/items/f136856d-815a-4b6d-bc60-48a9380f81f7
+- **DOI:** Não informado
+- **Observação:** O trabalho também dialoga tematicamente com segurança pública e infraestrutura crítica, mas sua categoria principal é Ciência de Dados.
 
 ## Organização
 
