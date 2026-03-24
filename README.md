@@ -20,6 +20,9 @@ Este repositório reúne produções acadêmicas na área de Ciência de Dados d
 | 2024 | Mineração de Opinião na rede social X sobre as eleições presidenciais de 2022 | Bruno Victor Vasconcelos | Artigo completo | CONIC 2024 | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Mineracao_Opiniao_X_Eleicoes_Presidenciais_2022_BrunoVasconcelos_CONIC2024.pdf) |
 | 2024 | Análise de Avaliações Turísticas do Tripadvisor utilizando SVM e Regressão Logística | Daniel Douglas Rodrigues | Artigo completo | CONIC 2024 | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Analise_Avaliacoes_TIPADVISOR_SVM_RegLog_DanielDouglas_CONIC2024.pdf) |
 | 2025 | Aprendizado Não Supervisionado Aplicado à Análise de Furtos de Cabos de Cobre em Belo Horizonte | Daniel Elias dos Santos | Trabalho de Conclusão de Curso | Repositório IFMG | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Aprendizado_NaoSupervisionado_Furtos_Cabos_DanielElias_TCC2025_compressed.pdf) |
+| 2025 | Análise Comparativa de Algoritmos de Machine Learning para a Projeção de Áreas em Crescimento no Setor de Tecnologia da Informação no Brasil | Isabelle Yasmin de Araújo Moreira | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Analise_Comparativa_ML_Areas_Crescimento_TI_IsabelleYasmin_CONIC2025.pdf) |
+| 2025 | Previsão da Demanda Regional por Vagas de TI no Brasil: Uma Análise Comparativa de Modelos de Aprendizado de Máquina | Danilo Batista Lima | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Previsao_Demanda_Regional_Vagas_TI_DaniloBatista_CONIC2025.pdf) |
+| 2025 | Análise Exploratória de Dados Educacionais: Um Estudo de Caso do Programa Sabará | Thiago Pedro Ferreira | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/datascience/blob/main/Analise_Exploratoria_Dados_Educacionais_ProgramaSabara_ThiagoPedro_CONIC2025.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -246,6 +249,57 @@ Este repositório reúne produções acadêmicas na área de Ciência de Dados d
 - **Link externo:** https://repositorio.ifmg.edu.br/items/f136856d-815a-4b6d-bc60-48a9380f81f7
 - **DOI:** Não informado
 - **Observação:** O trabalho também dialoga tematicamente com segurança pública e infraestrutura crítica, mas sua categoria principal é Ciência de Dados.
+
+---
+
+### 15. Análise Comparativa de Algoritmos de Machine Learning para a Projeção de Áreas em Crescimento no Setor de Tecnologia da Informação no Brasil
+
+- **Autor(a):** Isabelle Yasmin de Araújo Moreira
+- **Orientador(a):** Carlos Alexandre Silva
+- **Colaborador(a):** Danilo Batista Lima
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O trabalho analisa vagas de TI no Brasil com foco na projeção de áreas em crescimento no setor, utilizando dados coletados por web scraping no LinkedIn. A metodologia combina clusterização com K-means e modelos preditivos de machine learning, como MLP, LSTM e XGBoost. Os resultados identificam áreas com maior expansão no mercado e apontam destaque para o XGBoost na tarefa de previsão.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/datascience/blob/main/Analise_Comparativa_ML_Areas_Crescimento_TI_IsabelleYasmin_CONIC2025.pdf)
+- **Veículo de divulgação:** Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025
+- **Citação:** MOREIRA, Isabelle Yasmin de Araújo; SILVA, Carlos Alexandre; LIMA, Danilo Batista. Análise Comparativa de Algoritmos de Machine Learning para a Projeção de Áreas em Crescimento no Setor de Tecnologia da Informação no Brasil. In: Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025.
+- **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000013789.pdf?1774312386
+- **DOI:** Não informado
+- **Observação:** O trabalho também pode dialogar com Inteligência Artificial pelo uso de modelos de aprendizado de máquina.
+
+---
+
+### 16. Previsão da Demanda Regional por Vagas de TI no Brasil: Uma Análise Comparativa de Modelos de Aprendizado de Máquina
+
+- **Autor(a):** Danilo Batista Lima
+- **Orientador(a):** Carlos Alexandre Silva
+- **Colaborador(a):** Isabelle Yasmin de Araújo Moreira
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** A pesquisa analisa a distribuição regional de vagas de Tecnologia da Informação no Brasil com base em dados coletados diariamente via web scraping no LinkedIn. Foram comparados três modelos preditivos — MLP, SVR e LSTM — para estimar a abertura de vagas por região. O modelo MLP apresentou o melhor equilíbrio entre erro médio e capacidade de prever tendências, com destaque para as regiões Sudeste, Sul e para a modalidade remota.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/datascience/blob/main/Previsao_Demanda_Regional_Vagas_TI_DaniloBatista_CONIC2025.pdf)
+- **Veículo de divulgação:** Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025
+- **Citação:** LIMA, Danilo Batista; SILVA, Carlos Alexandre; MOREIRA, Isabelle Yasmin de Araújo. Previsão da Demanda Regional por Vagas de TI no Brasil: Uma Análise Comparativa de Modelos de Aprendizado de Máquina. In: Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025.
+- **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000013808.pdf?1774312429
+- **DOI:** Não informado
+- **Observação:** O trabalho também pode dialogar com Inteligência Artificial pelo uso de modelos preditivos de aprendizado de máquina.
+
+---
+
+### 17. Análise Exploratória de Dados Educacionais: Um Estudo de Caso do Programa Sabará
+
+- **Autor(a):** Thiago Pedro Ferreira
+- **Orientador(a):** Carlos Alexandre Silva
+- **Coorientador(a):** Renato Miranda Filho
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O estudo analisa dados de 283 estudantes do Programa Sabará por meio de estatística descritiva, ydata-profiling e do algoritmo K-means. A pesquisa identificou três perfis distintos de participantes e evidenciou padrões relacionados ao desempenho, ao tipo de escola frequentada e à distância até o campus. Os resultados contribuem para a compreensão do perfil dos estudantes atendidos pelo programa e para o planejamento de ações educacionais baseadas em dados.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/datascience/blob/main/Analise_Exploratoria_Dados_Educacionais_ProgramaSabara_ThiagoPedro_CONIC2025.pdf)
+- **Veículo de divulgação:** Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025
+- **Citação:** FERREIRA, Thiago Pedro; SILVA, Carlos Alexandre; FILHO, Renato Miranda. Análise Exploratória de Dados Educacionais: Um Estudo de Caso do Programa Sabará. In: Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025.
+- **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000014115.pdf?1774312614
+- **DOI:** Não informado
+- **Observação:** O trabalho também está catalogado no repositório de Tecnologia na Educação.
 
 ## Organização
 
